@@ -1,0 +1,50 @@
+![Lim Foundation Banner](images/banner.jpg)
+# Lim International Foundation for a Better Society
+> **"A better society comes before lasting prosperity."**
+
+---
+
+## 🌍 About Us (เกี่ยวกับเรา)
+**Lim International Foundation for a Better Society** คือองค์กรที่มุ่งเน้นการสร้างสรรค์และพัฒนาสังคมให้ดีขึ้นอย่างยั่งยืน เพราะเราเชื่อมั่นว่า *สังคมที่ดีและเข้มแข็ง คือรากฐานที่สำคัญที่สุดก่อนจะนำไปสู่ความเจริญรุ่งเรืองที่มั่นคงและยาวนาน*
+
+เรามุ่งเน้นการสนับสนุนทางด้านการศึกษา สุขภาวะของเด็กและเยาวชน (White Seed Initiative) เพื่อหว่านเมล็ดพันธุ์แห่งอนาคตที่ดีให้แก่สังคมโลก
+
+---
+
+## 🎨 Our Key Initiatives (โครงการหลักของเรา)
+
+*   **Better Society Platform:** พัฒนาเครื่องมือและระบบดิจิทัลเพื่อขับเคลื่อนกิจกรรมทางสังคม
+*   **White Seed Curriculum:** โครงการพัฒนาหลักสูตรและการเรียนรู้สำหรับเด็กปฐมวัย เพื่อปูพื้นฐานสังคมที่มีคุณภาพ
+*   **Lim Foundation Web Portal:** ศูนย์กลางการเชื่อมโยงข้อมูล ข่าวสาร และการมีส่วนร่วมของชุมชนจากทั่วโลก
+
+---
+
+## 👥 Organization Members & Contributors
+*   **Paisan Aifive** (Founding Member / Lead Maintainer)
+*   *และอาสาสมัครรวมถึงนักพัฒนาจากทั่วทุกมุมโลกที่ร่วมขับเคลื่อนสังคมไปพร้อมกับเรา*
+
+---
+
+## 🛠️ Technology Stack
+โปรเจกต์ภายใต้มูลนิธิของเราขับเคลื่อนด้วยเทคโนโลยีที่เน้นการเข้าถึงง่าย ปลอดภัย และมีประสิทธิภาพเพื่อสาธารณะประโยชน์:
+*   **Frontend:** HTML5, CSS3, JavaScript (React / Next.js)
+*   **Documentation & Guidelines:** Markdown
+
+---
+
+## 🤝 How to Contribute (การมีส่วนร่วม)
+เรายินดีต้อนรับนักพัฒนา ดีไซเนอร์ และผู้ที่สนใจร่วมสร้างสังคมที่ดีขึ้นทุกคน! คุณสามารถมีส่วนร่วมกับเราได้ง่ายๆ ดังนี้:
+1. **Fork** คลังเก็บโค้ดนี้ไปที่บัญชีของคุณ
+2. สร้างเบランチใหม่สำหรับฟีเจอร์หรือการแก้ไขของคุณ (`git checkout -b feature/AmazingFeature`)
+3. **Commit** การเปลี่ยนแปลงที่คุณแก้ไข (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** ไปยังเบランチของคุณ (`git push origin feature/AmazingFeature`)
+5. เปิด **Pull Request** มาหาเราเพื่อทำการรีวิวและรวมโค้ด
+
+---
+
+📧 **Contact & Support:** หากต้องการติดต่อสอบถามข้อมูลเพิ่มเติม หรือส่งข้อความหาทีมงาน สามารถกดส่งข้อความผ่านทางระบบของ GitHub หรือติดต่อผู้ดูแลระบบได้โดยตรง
+
+---
+<p align="center">
+  <i>"Let's plant the seeds for a better tomorrow, together."</i>
+</p>
