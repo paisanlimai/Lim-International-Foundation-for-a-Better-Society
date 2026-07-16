@@ -1,4 +1,4 @@
-![Lim Foundation Banner](images/banner.jpg)
+![Lim Foundation Banner](imagesbanner.jpg)
 # Lim International Foundation for a Better Society
 > **"A better society comes before lasting prosperity."**
 
